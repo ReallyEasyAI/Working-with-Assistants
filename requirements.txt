@@ -1,0 +1,5 @@
+# These are the specific versions used in the notebooks
+# You can install them by running `pip install -r requirements.txt`
+# The package versions may have changed and you may find that the notebooks do not work as expected if different versions are installed
+openai==1.31.2
+pytz
